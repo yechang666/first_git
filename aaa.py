@@ -6,3 +6,5 @@ def ccc():
 print(ccc())
 
 aaa = []
+
+bbb = []
