@@ -4,3 +4,5 @@ def ccc():
     print('git init')
 
 print(ccc())
+
+aaa = []
