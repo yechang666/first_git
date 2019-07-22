@@ -5,12 +5,3 @@ def ccc():
 
 print(ccc())
 
-aaa = []
-
-bbb = []
-
-mm = []
-
-nn = []
-
-cc = ()
