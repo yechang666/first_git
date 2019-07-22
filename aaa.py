@@ -5,3 +5,6 @@ def ccc():
 
 print(ccc())
 
+def abc():
+    for i in range(10):
+        print i
